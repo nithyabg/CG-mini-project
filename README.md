@@ -1,2 +1,3 @@
 # CG-mini-project
-6th semester computer graphics mini project
+6th semester computer graphics mini project.
+The  project  “2D Dodge Game”  is  programmed  using  c++. The “2D Dodge Game” is a two dimensional game in which the objective is to dodge the obstacles. The user will be indicated on the screen with a colorful UFO which can be navigated left or right to move into other trails in order to escape obstacles in the present trail. This project code contains Functions to draw the text, path, UFO, obstacles, resize window and so on. The project uses keyboard and mouse interfacing to accept input from user. By using arrow keys UFO can be moved. The score with dodges will be displayed when the game is over. The user can either play again or quit.
